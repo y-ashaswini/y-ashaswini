@@ -1,11 +1,11 @@
 <h1 align="center">Greetings, maytes! 👋 I'm Yashaswini Shivathaya</h1>
-<h3 align="center">Frontend and (on my way to becoming) FullStack Web developer, with an eye for the Aesthetic</h3>
+<h3 align="center">a Frontend and (on my way to becoming) FullStack Web developer, with a keen eye for the aesthetic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-ashaswini&label=Profile%20views&color=0e75b6&style=flat" alt="y-ashaswini" /> </p>
 
-- 🔭 I’m currently working on **Diving deeper and collecting more treasures :D**
+- 🔭 I’m currently working on **diving deeper and collecting more treasures :D**
 
-- ⚡ Fun fact **Experimenting on the limits of this human world has been my faithful source of amusement**
+- ⚡ Fun fact **Experimenting on the limits of this human world is my only faithful source of amusement**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
