@@ -1,5 +1,6 @@
 <h1 align="center">Greetings, maytes! 👋 I'm Yashaswini Shivathaya</h1>
 <h3 align="center">a web developer with a keen eye for the aesthetic</h3>
+<h5 align="center">and a strange obsession with abstraction</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-ashaswini&label=Profile%20views&color=0e75b6&style=flat" alt="y-ashaswini" /> </p>
 
