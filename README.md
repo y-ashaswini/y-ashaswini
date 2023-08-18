@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, maytes! 👋 I'm Yashaswini Shivathaya</h1>
+<h1 align="center">👋, I'm Yashaswini Shivathaya</h1>
 <h3 align="center">a web developer with a keen eye for the aesthetic</h3>
 <h5 align="center">and a strange obsession with the abstract</h5>
 
