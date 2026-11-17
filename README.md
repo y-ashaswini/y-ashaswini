@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-ashaswini&label=Profile%20views&color=0e75b6&style=flat" alt="y-ashaswini" /> </p>
 
-- 🔭 I’m currently working on **robotics!**
-
 - ⚡ Fun fact **Experimenting on the limits of this human world is my only faithful source of amusement**
 
 <!-- 
